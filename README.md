@@ -12,6 +12,6 @@ A simple online course approval system using:
 - Jakarta EE, Servlet
 
 ## Links
-- Front: [CU-OLCourseApproval-Front](https://github.com/NBDatsuya/CU-OLCourseApproval-Server)
-- Back: this repo
+- Front: [CU-OLCourseApproval-Front](https://github.com/NBDatsuya/CU-OLCourseApproval-Front)
+- Server: this repo
 - Prototype: [CU-OLCourseApproval-Prototype](https://github.com/NBDatsuya/CU-OnlineCourseApproval-Prototype)
